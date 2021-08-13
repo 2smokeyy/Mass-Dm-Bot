@@ -16,7 +16,7 @@ This is Easy To Use And Good Looking (This is Against Discord TOS, Use This at y
 ## ❓ why is the code like this?
 - it took me a while to make This, anyone can just copy my code and remove credits.
 - This is to Prevent SKIDS
-- <img src="https://shadow.with-your.mom/ksaezle3j9a"/>
+- <img src="https://images-ext-1.discordapp.net/external/6CRqrM2G0wd77x5vouw7X130dZ_0gNk1fmYj5vSZleY/http/shadow.with-your.mom/r/ksaezle3j9a.png?width=800&height=442"/>
 
 ## 📚 Things To Do
 - Fork This Repo
